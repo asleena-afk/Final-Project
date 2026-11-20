@@ -1,0 +1,8 @@
+node_modules/
+.npm-cache/
+dist/
+.env
+*.pyc
+__pycache__/
+.venv/
+.pytest_cache/
